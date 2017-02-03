@@ -1,8 +1,9 @@
 # UTADA Group Study Tech List
-**WEB 后端**
-<br>
 
-<span style="color:purple">  1. web 基础知识 (TCP, restful…)
+##WEB 后端
+
+
+<span style="color:purple"> &emsp; 1. web 基础知识 (TCP, restful…)
 
 prerequisite: None
 
@@ -59,7 +60,9 @@ resources：
  <br>
  <br>
 
-**WEB 前端 [web前端主要靠实战，知识点太杂，简单了解]**
+##WEB 前端 [web前端主要靠实战，知识点太杂，简单了解]
+
+
 
 <span style="color:purple">&emsp; 1. READING web前段简介
 
@@ -93,7 +96,7 @@ resources:
 <br>
 <br>
 
-**Multiplatform APP开发(开发一遍，web,ios,android都能用)**
+##Multiplatform APP开发(开发一遍，web,ios,android都能用)
 
 <span style="color:purple">1. REACT NATIVE
 
@@ -110,7 +113,8 @@ resources:
 - 即将推出的whalesper app的技术栈， 技术细节留意未来workshop
 
 <br>
-**Native Android**
+
+##Native Android
 
 Recommended preparation: CSC207
 
@@ -127,8 +131,9 @@ resources:
 -   (thrive) Multimedia, Notification broadcast &amp; receive, View override, JNI, Gradle, Unit test
 
 
+<br>
 
-**Native iOS**
+##Native iOS
 
 Recommended Prerequisite: CSC108，CSC148, CSC207
 
@@ -158,7 +163,7 @@ resources:
 
 <br>
 
-**Machine Learning** ：
+##Machine Learning
 
 Prerequisite: CSC108, STA247/STA257
 
@@ -199,7 +204,7 @@ resources:
 
 <br>
 
-**Traditional AI** ：
+##Traditional AI
 
 Prerequisite:  CSC148
 
@@ -213,7 +218,7 @@ resources:
 <br>
 <br>
 
-**IOT+Application of AI (软硬件结合)**
+##IOT+Application of AI (软硬件结合)
 
 Prerequisite:  CSC258 (or equivalent courses. Should be comfortable with running    programs on a board)  ,Be comfortable with playing around with circuits
 
@@ -227,8 +232,7 @@ resources:
 
  
 <br>
-<br>
-**BIG DATA**
+##BIG DATA
 
 Prerequisite:  STA257， CSC343
 
