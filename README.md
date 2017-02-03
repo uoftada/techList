@@ -3,7 +3,7 @@
 ##WEB 后端
 
 
-<span style="color:purple"> &emsp; 1. web 基础知识 (TCP, restful…)
+### &emsp; 1. web 基础知识 (TCP, restful…)
 
 prerequisite: None
 
@@ -13,7 +13,7 @@ resources:
 
 
 
-<span style="color:purple"> &emsp;2.1.  django framework
+###&emsp;2.1.  django framework
 
  prerequisite: CSC148
 
@@ -24,7 +24,7 @@ resources：
 -   [basic tutorial](https://tutorial.djangogirls.org/en/index.html)    
 -   [e-commerence project](https://codingforentrepreneurs.com/projects/ecommerce-2/)
 
-<span style="color:purple"> &emsp;2.2. flask framework
+### &emsp;2.2. flask framework
 
 prerequisite: CSC148
 
@@ -34,7 +34,7 @@ resources:
 
 -   [The Flask Mega-tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-<span style="color:purple"> &emsp;3.   separate backend and frontend
+### &emsp;3.   separate backend and frontend
 
  prerequisite: 2.1 or 2.2 , CSC148
 
@@ -48,7 +48,7 @@ resources：
 
 -   Django restful: [how to create a django restful api in 20 minutes](https://www.youtube.com/watch?v=gz5TPI2sSTo)
 
-<span style="color:purple"> &emsp;4. Deployment
+### &emsp;4. Deployment
 
  prerequisite: An idea about how components of a website works together
 
@@ -64,7 +64,7 @@ resources：
 
 
 
-<span style="color:purple">&emsp; 1. READING web前段简介
+###&emsp; 1. READING web前段简介
 
 prerequisite: None
 
@@ -72,13 +72,13 @@ resources :
  
 - [web前段如何入门](https://www.zhihu.com/question/32314049)
 
-<span style="color:purple"> &emsp;2.   HTML&amp;CSS&amp;JS
+###&emsp;2.   HTML&amp;CSS&amp;JS
 
 resources:
 
 -    [李炎恢 HTML CSS JavaScript Bootstrap 教程](https://wizardforcel.gitbooks.io/liyanhui-tutorials/content/66.html)        快速扫一遍
 
-<span style="color:purple">&emsp;3.   Anjular JS
+###&emsp;3.   Anjular JS
 
 prerequisite:  HTML&amp;CSS&amp;JS
 
@@ -86,7 +86,7 @@ prerequisite:  HTML&amp;CSS&amp;JS
  
  -   [code school](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
-<span style="color:purple">&emsp;4.   React JS
+###&emsp;4.   React JS
 
 prerequisite:  HTML&amp;CSS&amp;JS
 
@@ -98,7 +98,7 @@ resources:
 
 ##Multiplatform APP开发(开发一遍，web,ios,android都能用)
 
-<span style="color:purple">1. REACT NATIVE
+###1. REACT NATIVE
 
 prerequisite: React, IOS or Androidd basics.
 
@@ -169,7 +169,7 @@ Prerequisite: CSC108, STA247/STA257
 
 Recommended Preparation: CSC148, STA248/STA261
 
-<span style="color:purple">&emsp;1. READING Machine Learning简介
+###&emsp;1. Machine Learning简介
 
  resources: 
  
@@ -177,7 +177,7 @@ Recommended Preparation: CSC148, STA248/STA261
 
 -   [ Generating Stories about Images](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed#.xxofzzyn2)
 
-<span style="color:purple">&emsp;2.  神经网络入门
+###&emsp;2.  神经网络入门
 
 resources:
 
@@ -187,7 +187,7 @@ resources:
 
 -   LTST: [ 理解LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-<span style="color:purple">&emsp;3.  Machine Learning and NLP
+###&emsp;3.  Machine Learning and NLP
 
  resources: 
  
@@ -195,7 +195,7 @@ resources:
 
 -   相关项目 UT助手chatbot
 
-<span style="color:purple">&emsp;4. 2016 paper list
+###&emsp;4. 2016 paper list
 
  -   [ICML 2016 accepted papers](http://icml.cc/2016/?page_id=1649)
 
@@ -208,7 +208,7 @@ resources:
 
 Prerequisite:  CSC148
 
-<span style="color:purple">1.  Game AI
+###1.  Game AI
 
 resources:   
 
@@ -237,21 +237,21 @@ resources:
 Prerequisite:  STA257， CSC343
 
 
-<span style="color:purple">&emsp;1.  Hadoop
+###&emsp;1.  Hadoop
 
 resources:   
 
  -   [零基础如何入门hadoop](https://www.zhihu.com/question/19795366l)
 
  
-<span style="color:purple">&emsp;2.  Spark
+###&emsp;2.  Spark
 
 resources:   
 
  -   [用Apache Spark进行大数据处理](http://www.infoq.com/cn/articles/apache-spark-introduction)
 
   
-<span style="color:purple">&emsp;3.  Cassandra
+###&emsp;3.  Cassandra
 
 resources:   
 
