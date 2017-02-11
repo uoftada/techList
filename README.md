@@ -7,7 +7,7 @@
 
 prerequisite: None
 
-resources: 
+resources:
 
 -   [web入门](https://jestar719.gitbooks.io/net_skill_tree/content/)
 
@@ -30,7 +30,7 @@ prerequisite: CSC148
 
 简介：比django更简单易用的轻量级web框架, industry(e.x CPPIB, RBC)中internal system主流
 
-resources: 
+resources:
 
 -   [The Flask Mega-tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
@@ -55,7 +55,7 @@ resources：
  resources: (a) AWS: EC2 + RDS + R53, (b) Heroku, (c) DigitalOcean …
 
  resources:
- 
+
  -   [Post your python app](https://www.youtube.com/watch?v=3HuYr6G2Z28)
  <br>
  <br>
@@ -68,8 +68,8 @@ resources：
 
 prerequisite: None
 
-resources : 
- 
+resources :
+
 - [web前段如何入门](https://www.zhihu.com/question/32314049)
 
 ###&emsp;2.   HTML&amp;CSS&amp;JS
@@ -82,15 +82,15 @@ resources:
 
 prerequisite:  HTML&amp;CSS&amp;JS
 
- resources: 
- 
+ resources:
+
  -   [code school](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ###&emsp;4.   React JS
 
 prerequisite:  HTML&amp;CSS&amp;JS
 
-resources: 
+resources:
 
 -   [code school](https://www.codeschool.com/courses/powering-up-with-react)
 <br>
@@ -171,8 +171,8 @@ Recommended Preparation: CSC148, STA248/STA261
 
 ###&emsp;1. Machine Learning简介
 
- resources: 
- 
+ resources:
+
 -   [机器之心 machine learn 入门](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650721853&amp;idx=3&amp;sn=f9f0048cccefbf9c00dc94f2a71c7d00&amp;chksm=871b0a43b06c8355376d1bc897b4f3585b4a129d77a9e5b025f4c344f2ef264c05133cff7682&amp;scene=21#wechat_redirect)
 
 -   [ Generating Stories about Images](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed#.xxofzzyn2)
@@ -189,8 +189,8 @@ resources:
 
 ###&emsp;3.  Machine Learning and NLP
 
- resources: 
- 
+ resources:
+
  -   [represent word using vector](https://arxiv.org/pdf/1301.3781.pdf)
 
 -   相关项目 UT助手chatbot
@@ -229,8 +229,8 @@ resources:
  -   Mark Zuckerberg&#39;s Jarvis: video demo 1[[https://www.youtube.com/watch?v=KdQ54681no0](https://www.youtube.com/watch?v=KdQ54681no0) ] demo 2 [[https://www.youtube.com/watch?v=PqvkhxNatyY](https://www.youtube.com/watch?v=PqvkhxNatyY) ]
  -   How was Jarvis built? [[https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634/](https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634/) ]
  -   Internetworking with Arduino [Arduino manual]
+ - Build Echo with Raspberry PI and Alexa [Tutorial](http://lifehacker.com/how-to-build-your-own-amazon-echo-with-a-raspberry-pi-1787726931)
 
- 
 <br>
 ##BIG DATA
 
@@ -243,14 +243,14 @@ resources:
 
  -   [零基础如何入门hadoop](https://www.zhihu.com/question/19795366l)
 
- 
+
 ###&emsp;2.  Spark
 
 resources:   
 
  -   [用Apache Spark进行大数据处理](http://www.infoq.com/cn/articles/apache-spark-introduction)
 
-  
+
 ###&emsp;3.  Cassandra
 
 resources:   
